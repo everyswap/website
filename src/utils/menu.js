@@ -4,12 +4,12 @@ const menu = [
     sublinks: [
       {
         name: 'App',
-        link: 'https://app.uniswap.org/#/',
+        link: 'https://app.everyswap.io/#/',
         description: 'Swap tokens and supply liquidity'
       },
       {
         name: 'Analytics',
-        link: 'https://uniswap.info/',
+        link: 'https://info.everyswap.io/',
         description: 'Uniswap analytics and historical data'
       },
       {
@@ -19,7 +19,7 @@ const menu = [
       },
       {
         name: 'Unisocks',
-        link: 'https://unisocks.exchange/',
+        link: 'https://everysocks.exchange/',
         description: 'Dynamically priced socks'
       },
       {
@@ -29,7 +29,7 @@ const menu = [
       },
       {
         name: 'Unipig',
-        link: 'https://unipig.exchange/',
+        link: 'https://everyswap.exchange/',
         description: 'Optimistic rollup demo'
       }
     ]
@@ -41,7 +41,7 @@ const menu = [
         name: 'Documentation',
         link: '/docs/v2'
       },
-      { name: 'GitHub', link: 'https://github.com/Uniswap' },
+      { name: 'GitHub', link: 'https://github.com' },
       { name: 'Whitepaper', link: '/whitepaper.pdf' },
       { name: 'Audit', link: '/audit.html' },
       { name: 'Bug Bounty', link: '/bug-bounty' }
@@ -54,17 +54,17 @@ const menu = [
         name: 'UNI Token',
         link: '/blog/uni'
       },
-      { name: 'Forum', link: 'https://gov.uniswap.org/' },
-      { name: 'Voting Portal', link: 'https://app.uniswap.org/#/vote' },
+      { name: 'Forum', link: 'https://gov.everyswap.io/' },
+      { name: 'Voting Portal', link: 'https://app.everyswap.io/#/vote' },
       { name: 'Documentation', link: '/docs/v2/governance/overview' }
     ]
   },
   {
     name: 'Community',
     sublinks: [
-      { name: 'Discord', link: 'https://discord.gg/FCfyBSbCU5' },
-      { name: 'Twitter', link: 'https://twitter.com/Uniswap' },
-      { name: 'Reddit', link: 'https://www.reddit.com/r/Uniswap' }
+      { name: 'Discord', link: 'https://discord.gg' },
+      { name: 'Twitter', link: 'https://twitter.com' },
+      { name: 'Reddit', link: 'https://www.reddit.com' }
     ]
   },
   {
