@@ -304,7 +304,7 @@ const IndexPage = props => {
                 fontSize: '20px'
               }}
               target="_blank"
-              href="https://app.uniswap.org/"
+              href="https://app.everyswap.io/"
             >
               Use Uniswap
             </Button>
@@ -371,7 +371,7 @@ const DeveloperSection = props => {
     <>
       <StyledSectionTitle>A growing protocol ecosystem.</StyledSectionTitle>
       <StyledBodySubText>
-        The Uniswap protocol empowers developers, liquidity providers and traders to participate in a financial
+        The Everyswap protocol empowers developers, liquidity providers and traders to participate in a financial
         marketplace that is open and accessible to all.
       </StyledBodySubText>
       <StyledBannerImage fadeIn={false} fluid={props.data.banner.childImageSharp.fluid} />
@@ -384,23 +384,23 @@ const ProductsSection = props => {
     <>
       <StyledSectionTitle>A suite of tools for a tokenized world.</StyledSectionTitle>
       <StyledBodySubText>
-        We build state of the art open source apps to access the Uniswap protocol and contribute to the world of
+        We build state of the art open source apps to access the Everyswap protocol and contribute to the world of
         decentralized finance.
       </StyledBodySubText>
       <StyledItemRow>
-        <StyledExternalLink href={'https://socks.uniswap.org'} target="_blank">
+        <StyledExternalLink href={'https://socks.everyswap.io'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.socks.childImageSharp.fluid} />
         </StyledExternalLink>
-        <StyledExternalLink href={'https://info.uniswap.org'} target="_blank">
+        <StyledExternalLink href={'https://info.everyswap.io'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.info.childImageSharp.fluid} />
         </StyledExternalLink>
-        <StyledExternalLink href={'https://app.uniswap.org'} target="_blank">
+        <StyledExternalLink href={'https://app.everyswap.io'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.swap.childImageSharp.fluid} />
         </StyledExternalLink>
-        <StyledExternalLink href={'https://tokenlists.org'} target="_blank">
+        <StyledExternalLink href={'https://everytoken.org'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.tokenlists.childImageSharp.fluid} />
         </StyledExternalLink>
-        <StyledExternalLink href={'https://sybil.org'} target="_blank">
+        <StyledExternalLink href={'https://governance.org'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.sybil.childImageSharp.fluid} />
         </StyledExternalLink>
       </StyledItemRow>
@@ -417,20 +417,20 @@ const ProductsSection = props => {
 
       <StyledSectionTitle>A global community.</StyledSectionTitle>
       <StyledBodySubText>
-        Learn more about Uniswap, chat with the team, others in the community, and have your say in shaping the future
-        of the Uniswap protocol.
+        Learn more about Everyswap, chat with the team, others in the community, and have your say in shaping the future
+        of the Everyswap protocol.
       </StyledBodySubText>
       <StyledItemRow>
-        <StyledExternalLink href={'https://discord.gg/FCfyBSbCU5'} target="_blank">
+        <StyledExternalLink href={'https://discord.gg'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.discord.childImageSharp.fluid} />
         </StyledExternalLink>
-        <StyledExternalLink href={'https://twitter.com/Uniswap'} target="_blank">
+        <StyledExternalLink href={'https://twitter.com'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.twitter.childImageSharp.fluid} />
         </StyledExternalLink>
-        <StyledExternalLink href={'https://gov.uniswap.org/'} target="_blank">
+        <StyledExternalLink href={'https://gov.everyswap.io/'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.discourse.childImageSharp.fluid} />
         </StyledExternalLink>
-        <StyledExternalLink href={'https://www.reddit.com/r/Uniswap'} target="_blank">
+        <StyledExternalLink href={'https://www.reddit.com'} target="_blank">
           <StyledProductImage fadeIn={false} fluid={props.data.reddit.childImageSharp.fluid} />
         </StyledExternalLink>
       </StyledItemRow>
