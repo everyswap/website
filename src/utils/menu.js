@@ -14,7 +14,7 @@ const menu = [
       },
       {
         name: 'Token Lists',
-        link: 'https://tokenlists.org/',
+        link: 'https://everytoken.io/',
         description: 'A new Ethereum token list standard.'
       },
       {
