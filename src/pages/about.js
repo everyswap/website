@@ -265,7 +265,7 @@ const About = props => {
           </Numbers>
           <StyledSectionFlex id="about" style={{ flexDirection: 'column' }}>
             <p>
-              Uniswap empowers developers, liquidity providers and traders to participate in a financial marketplace
+              Everyswap empowers developers, liquidity providers and traders to participate in a financial marketplace
               that is open and accessible to all.
             </p>
             <p>We are committed to open source software and building on the decentralized web.</p>
@@ -287,31 +287,31 @@ const About = props => {
             <p>We are looking for talented people to join our team!</p>
 
             <span>
-              <a href="https://jobs.lever.co/Uniswap/5709e492-4c32-45de-bedc-2f65e9f86cfc">
+              <a href="https://jobs.lever.co/everyswap/5709e492-4c32-45de-bedc-2f65e9f86cfc">
                 {' '}
                 <h3>Senior Frontend Engineer</h3>
               </a>
             </span>
             <span>
-              <a href="https://jobs.lever.co/Uniswap/7bc54d95-c6c2-4dda-a313-3f791ceb8c09">
+              <a href="https://jobs.lever.co/everyswap/7bc54d95-c6c2-4dda-a313-3f791ceb8c09">
                 {' '}
                 <h3>Smart Contract Engineer</h3>
               </a>
             </span>
             <span>
-              <a href="https://jobs.lever.co/Uniswap/a1aa6e8c-bfea-4fbd-a473-ddae0c06cb7d">
+              <a href="https://jobs.lever.co/everyswap/a1aa6e8c-bfea-4fbd-a473-ddae0c06cb7d">
                 {' '}
                 <h3>Full Stack Engineer</h3>
               </a>
             </span>
             <span>
-              <a href="https://jobs.lever.co/Uniswap/401112a6-efe1-441b-a29d-19b687722acd">
+              <a href="https://jobs.lever.co/everyswap/401112a6-efe1-441b-a29d-19b687722acd">
                 {' '}
                 <h3>Software Engineering Intern</h3>
               </a>
             </span>
             <span>
-              <a href="https://angel.co/company/uniswap/jobs/888942-community-manager">
+              <a href="https://angel.co/company/everyswap/jobs/888942-community-manager">
                 {' '}
                 <h3>Community Manager</h3>
               </a>
@@ -327,11 +327,11 @@ const About = props => {
           <StyledSectionFlex id="contact" style={{ flexDirection: 'column' }}>
             <h2 style={{ width: '100%' }}>Contact</h2>
             <p>
-              To get in touch, please email <a href="mailto:contact@uniswap.org">contact@uniswap.org</a>
+              To get in touch, please email <a href="mailto:contact@everyswap.io">contact@uniswap.org</a>
             </p>
 
             <p>
-              We encourage anyone facing issues with their wallet, transaction or Uniswap related question to join our
+              We encourage anyone facing issues with their wallet, transaction or Everyswap related question to join our
               active community discord.
             </p>
 
@@ -351,7 +351,7 @@ const About = props => {
           <StyledSectionFlex id="brand" style={{ flexDirection: 'column' }}>
             <h2 style={{ width: '100%' }}>Brand Assets</h2>
             <p>
-              Download the logo and other brand assets samples <a href="/Uniswap_brand_assets.zip">here</a>.
+              Download the logo and other brand assets samples <a href="/Everyswap_brand_assets.zip">here</a>.
             </p>
           </StyledSectionFlex>
         </span>
