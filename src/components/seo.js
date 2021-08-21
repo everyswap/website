@@ -27,7 +27,7 @@ function SEO({ description, lang, title, path }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const uniTitle = 'Uniswap'
+  const uniTitle = 'Everyswap'
 
   return (
     <Helmet
@@ -50,8 +50,8 @@ function SEO({ description, lang, title, path }) {
       <meta property="og:image" content={`${site.siteMetadata.siteUrl}${path ? path : '/images/'}twitter-card.jpg`} />
 
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:creator" content="@UniswapProtocol"></meta>
-      <meta name="twitter:site" content="@UniswapProtocol" />
+      <meta name="twitter:creator" content="@EveryswapProtocol"></meta>
+      <meta name="twitter:site" content="@EveryswapProtocol" />
       <meta property="og:image" content={`${site.siteMetadata.siteUrl}${path ? path : '/images/'}twitter-card.jpg`} />
 
       <link rel="alternate" type="application/rss+xml" href="/rss.xml" />
