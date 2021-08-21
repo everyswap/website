@@ -12,14 +12,14 @@ const links = [
       {
         title: 'Token Swaps',
         link: '/docs/v2/smart-contract-integration/trading-from-a-smart-contract/',
-        description: 'Simplify the process of integrating Uniswap into your project.',
+        description: 'Simplify the process of integrating Everyswap into your project.',
         tag: 'reference',
         icon: '📦'
       },
       {
         title: 'Programmable Liquidity',
         link: '/docs/v2/smart-contract-integration/providing-liquidity/',
-        description: 'A step-by-step guide to getting started building interfaces with Uniswap.',
+        description: 'A step-by-step guide to getting started building interfaces with Everyswap.',
         tag: 'tutorial',
         icon: '🧼'
       },
@@ -66,9 +66,9 @@ const links = [
     name: 'Liquidity',
     sublinks: [
       {
-        title: 'Anatomy of a Uniswap Pool',
+        title: 'Anatomy of a Everyswap Pool',
         link: '/docs/v2/pools',
-        description: 'An overview of what a Uniswap liquidity pool.'
+        description: 'An overview of what a Everyswap liquidity pool.'
       },
       {
         title: 'Understanding Liquidity Returns',
@@ -83,7 +83,7 @@ const links = [
       {
         title: 'Core Concepts',
         link: '/docs/v2/protocol-overview',
-        description: 'A high level technical overview of the Uniswap protocol.'
+        description: 'A high level technical overview of the Everyswap protocol.'
       }
     ]
   }
